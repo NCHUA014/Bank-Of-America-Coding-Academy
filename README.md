@@ -1,7 +1,8 @@
 # Bank-Of-America-Coding-Academy
 2 questions were given. Here are my solutions
 
-First question: 
+First question: (solution in BOA_CodeAcademy) 
+
 parties:
 - party id
 - jurisdiction
@@ -25,7 +26,7 @@ If passes all these 3 cases, trade is eligible.
 
 Since banks need to check this quickly, using this algorithm saves time and efficiency.
 
-Second question:
+Second question: (solution in BofAq2.py)
 Given a list of buyers and sellers with the quantity given for each price, see which price leads to the most amount of sales, and hence, largest amount of commissions from revenue (a percentage).
 
 Bidders (buyers) will be willing to buy stocks that are below their expected price
